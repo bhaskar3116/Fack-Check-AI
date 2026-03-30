@@ -195,7 +195,18 @@ Never commit your `.env` file. Use `.env.example` as a template.
 ## 📸 Screenshots
 
 > The UI features a dark space-themed interface with animated agent nodes, live debate streaming, and a confidence meter on the verdict.
+> 
+<img width="2546" height="1397" alt="Screenshot 2026-03-31 003440" src="https://github.com/user-attachments/assets/9f3a80c1-7706-4fcd-9fa4-2d86ec65788d" />
 
+<img width="2547" height="1392" alt="Screenshot 2026-03-31 003502" src="https://github.com/user-attachments/assets/b0a09d54-67c0-4f65-a6c7-1bd5a91b9940" />
+
+<img width="2531" height="1390" alt="Screenshot 2026-03-31 003510" src="https://github.com/user-attachments/assets/ad762d5b-1a97-4382-954f-7d1c1fa538da" />
+
+<img width="2545" height="1397" alt="Screenshot 2026-03-31 003557" src="https://github.com/user-attachments/assets/528eae99-e393-40ea-8456-501eff4431ed" />
+
+<img width="2535" height="1397" alt="Screenshot 2026-03-31 003746" src="https://github.com/user-attachments/assets/77c39a5f-a3c8-4fd1-ae53-020b11d39102" />
+
+<img width="2548" height="1400" alt="Screenshot 2026-03-31 003755" src="https://github.com/user-attachments/assets/9a052a8a-2377-4213-a1ef-eab6ee86ec31" />
 ---
 
 ## 🤝 Contributing
